@@ -1,3 +1,4 @@
 # Electronics Ecommerce App
 
-![Aperçu](preview.png)
+[![Voir la vidéo](./preview/preview.png)](https://github.com/borisADN/electronics_ecommerce_app---ShivamGupta/raw/refs/heads/main/preview/video.mp4)
+
